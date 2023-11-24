@@ -1,0 +1,14 @@
+a=parseInt(prompt("Enter a..:"))
+b=parseInt(prompt("Enter b..:"))
+c=a+b
+console.log("Addition=",c)
+c=a-b
+console.log("Subtraction=",c)
+c=a*b
+console.log("multiplication=",c)
+c=a/b
+console.log("division=",c)
+c=a%b
+console.log("modulus=",c)
+c=a**b
+console.log("exponentation=",c)

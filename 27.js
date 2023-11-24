@@ -1,0 +1,10 @@
+
+    console.log("fist")
+    console.log("second")
+   console.log("third")
+       console.log("fist")
+    console.log("second")
+   console.log("third")
+    console.log("fist")
+    console.log("second")
+   console.log("third")
